@@ -1,2 +1,3 @@
-# python_homework10
-This is homework for lection 10
+# This is homework for lection 10
+
+_This file is written for example!_
